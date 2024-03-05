@@ -28,16 +28,16 @@
 <a href="https://www.linkedin.com/in/bharathikannan-sambasivam/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://dribbble.com/https://dribbble.com/bk_bharathikannan" target="_blank">
+<a href="https://dribbble.com/bk_bharathikannan" target="_blank">
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/https://github.com/bharathikannansambasivam" target="_blank">
+<a href="https://github.com/bharathikannansambasivam" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/https://medium.com/@bk_bharathikannan" target="_blank">
+<a href="https://medium.com/@bk_bharathikannan" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://instagram.com/bk_bharathikannan" target="_blank">
+<a href="https://instagram.com/bk_bharathikannan" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
