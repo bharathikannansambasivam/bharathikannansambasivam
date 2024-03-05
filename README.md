@@ -25,7 +25,7 @@
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/https://linkedin.com/in/bharathikannansambasivam" target="_blank">
+<a href="https://www.linkedin.com/in/bharathikannan-sambasivam/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://dribbble.com/https://dribbble.com/bk_bharathikannan" target="_blank">
