@@ -1,6 +1,8 @@
 ## 👋 Hello! I'm **Bharathikannan**  
 **🎓 University Rank Holder** | **🚀 Aspiring MERN Stack Developer**
 
+ 🌐 **Portfolio:** [bharathikannansambasivam.netlify.app](https://bharathikannansambasivam.netlify.app/)  
+
 I am currently pursuing a Master of Computer Applications (MCA) and actively learning the MERN stack. I share my practice projects on GitHub and have completed several projects on Frontend Mentor, showcasing my practical skills.
 
 ---
